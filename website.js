@@ -4,8 +4,6 @@ const path = require('path');
 const app = express();
 const port = 8000;
 
-let indexFile;
-
 app.get('/', function(req, res) {
 	res.sendFile(path.join(__dirname, '/site/index.html'));
 });
