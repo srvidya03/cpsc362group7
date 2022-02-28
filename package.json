@@ -1,0 +1,11 @@
+{
+  "name": "cpsc362group7",
+  "main": "website.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZacharyThompson/cpsc362group7.git"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
