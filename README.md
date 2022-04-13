@@ -1,8 +1,11 @@
 # Tuffy Sales - CPSC 362 Group 7
 ## How to Run
-Install `nodejs` and `npm`:
+Install `nodejs`, `npm`, and `mongodb`:
 
-`sudo apt install nodejs npm` (On Ubuntu/Tuffix)
+`sudo apt install nodejs npm mongodb` (On Ubuntu/Tuffix)
+
+Start and Enable mongodb:
+`sudo systemctl enable mongodb --now`
 
 Clone the repo:
 
