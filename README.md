@@ -10,6 +10,6 @@ To run frontend:
 cd frontend
 npm start
 
-To run frontend:
+To run backend:
 cd backend
 npm start
