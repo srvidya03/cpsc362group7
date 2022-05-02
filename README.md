@@ -1,10 +1,10 @@
 # cpsc362group7
 Install for MongoDb:
-cd backend
-npm install mongoose
+1)cd backend
+2)npm install mongoose
 
 To load .env file:
-npm install dotenv
+1)npm install dotenv
 
 To run frontend:
 cd frontend
