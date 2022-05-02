@@ -1,4 +1,6 @@
 # cpsc362group7
+Install nodejs, npm first.
+Next-
 Install for MongoDb:
 1)cd backend
 2)npm install mongoose
