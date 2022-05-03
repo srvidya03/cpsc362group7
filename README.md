@@ -5,7 +5,7 @@ To connect to DB:
 Install for MongoDb:
 1)cd backend
 2)npm install mongoose
-3)npm install dotenv  -(To load .env file:)
+3)npm install dotenv  -(To load .env file)
 
 To run frontend:
 1)cd frontend
