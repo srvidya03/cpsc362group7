@@ -9,9 +9,9 @@ To load .env file:
 1)npm install dotenv
 
 To run frontend:
-cd frontend
-npm start
+1)cd frontend
+2)npm start
 
 To run backend:
-cd backend
-npm start
+1)cd backend
+2)npm start
