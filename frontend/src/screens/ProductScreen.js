@@ -25,7 +25,7 @@ const reducer = (state, action) => {
     default:
       return state;
   }
-};
+}; 
 function ProductScreen() {
   const navigate = useNavigate();
   const params = useParams();
